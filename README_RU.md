@@ -38,3 +38,5 @@
 - видео не обязательно, но иметь работающий микрофон - обязательно!
 - задать минимум один вопрос за занятие!
 - присутствовать на максимально возможном количестве занятий <br />
+
+Космическая Академия - это совместный проект [Sputnik Network](https://github.com/SputnikNetwork/All-about-Sputnik), [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) и [Distributed Validators Synctems](https://validators.network/)

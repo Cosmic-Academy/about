@@ -38,3 +38,5 @@ Payment for the lessons - donations in any form and in any amount by your decisi
 - video is not required, but a working microphone - must have!
 - ask at least one question per lesson!
 - attend as many lessons as possible <br />
+
+Проект Космическая Академия, это совместный проект [Sputnik Network](https://github.com/SputnikNetwork/All-about-Sputnik), [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) и [Distributed Validators Synctems](https://validators.network/)

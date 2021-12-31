@@ -1,5 +1,7 @@
 # Welcome to the Cosmic Academy, future Cosmonaut!
 
+[На Русском](https://github.com/Cosmic-Academy/about/blob/main/README_RU.md)
+
 Many dreamed to become a Cosmonaut, when they grow up... <br />
 And even if most of these dreams didn't come true, the desire probably didn't disappear. <br />
 We decided to help you realize your childhood dream and make you a Cosmonaut! <br />

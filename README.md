@@ -39,4 +39,4 @@ Payment for the lessons - donations in any form and in any amount by your decisi
 - ask at least one question per lesson!
 - attend as many lessons as possible <br />
 
-Cosmic Academy is a joint project of [Sputnik Network](https://github.com/SputnikNetwork/All-about-Sputnik), [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) и [Distributed Validators Synctems](https://validators.network/)
+>> Cosmic Academy is a joint project of [Sputnik Network](https://github.com/SputnikNetwork/All-about-Sputnik), [Sputnik Foundation](https://github.com/Sputnik-Foundation/About-Sputnik-Foundation) и [Distributed Validators Synctems](https://validators.network/)

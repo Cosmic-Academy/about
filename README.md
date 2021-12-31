@@ -4,7 +4,7 @@ Many dreamed to become a Cosmonaut, when they grow up... <br />
 And even if most of these dreams didn't come true, the desire probably didn't disappear. <br />
 We decided to help you realize your childhood dream and make you a Cosmonaut! <br />
 
-Of course, our Cosmic Academy will not make you a Cosmonaut, but it will make you a Digital Cosmonaut! <br />
+Of course, our Cosmic Academy will not make you a Cosmonaut, but we will make you a Digital Cosmonaut! <br />
 
 Together with you, we will go through a full training course, during which you will acquire all the necessary knowledge and skills that will help you navigate the ever-expanding [Cosmos Ecosystem](https://cosmos.network/ecosystem) and beyond! <br />
 

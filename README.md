@@ -1,2 +1,3 @@
-# about
-Welcome to the Cosmic Academy, future Cosmonaut!
+# Welcome to the Cosmic Academy, future Cosmonaut!
+
+Here is will be text in English, very soon...

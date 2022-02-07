@@ -11,7 +11,7 @@ Of course, our Cosmic Academy will not make you a Cosmonaut, but we will make yo
 Together with you, we will go through a full training course, during which you will acquire all the necessary knowledge and skills that will help you navigate the ever-expanding [Cosmos Ecosystem](https://cosmos.network/ecosystem) and beyond! <br />
 
 The training course consists of 10 lessons, each of which will be recorded, then edited and published as educational material: <br />
-- What is the Cosmos Ecosystem and how to use it
+- What is the Cosmos Ecosystem and how to use it | [Presentation](https://docs.google.com/presentation/d/1cAVZ2eOecPVstrj0yql3WFerzm6DFZTdWH8b-gZ9tRo/edit?usp=sharing)
 - An overview of the necessary tools to use the Cosmos Ecosystem
 - Digital security and what not to do in the Cosmos Ecosystem
 - Delegators, Validators, how to stake and to whom 

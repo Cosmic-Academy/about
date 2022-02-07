@@ -26,7 +26,7 @@ Cosmonauts will be trained by [one of the best Cosmos ambassadors and advocates 
 
 ## How to enroll in Cosmonauts
 
-- Fill out the [application for participation in the Cosmos Academy](https://forms.gle/Df82yzQspma72sdu8). Deadline for application submission - 02/02/2022 <br />
+- Fill out the [application for participation in the Cosmos Academy](https://forms.gle/Df82yzQspma72sdu8). Deadline for application submission - 07/02/2022 <br />
 - Join the [Cosmic Academy Telegram group](https://t.me/+fWGuZ0F2n282MzUy), and write there that you have completed the application. <br />
 - At 5th of February 2022, you will be informed is your application approved or not. If you are refused, you will be informed of the reasons. <br />
 - Training will begin at the 7th of February 2022. <br />

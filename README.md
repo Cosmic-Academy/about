@@ -12,7 +12,7 @@ Together with you, we will go through a full training course, during which you w
 
 The training course consists of 10 lessons, each of which will be recorded, then edited and published as educational material: <br />
 - What is the Cosmos Ecosystem made of? | [Presentation #1](https://docs.google.com/presentation/d/1cAVZ2eOecPVstrj0yql3WFerzm6DFZTdWH8b-gZ9tRo/edit?usp=sharing)
-- An overview of the necessary tools to use the Cosmos Ecosystem
+- The main Cosmos Ecosystem tools for Digital Cosmonauts | [Presentation #2]
 - Digital security and what not to do in the Cosmos Ecosystem
 - Delegators, Validators, how to stake and to whom 
 - Cosmos DEXs and how to trade on them
